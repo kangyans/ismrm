@@ -13,6 +13,6 @@
 - Accelerated respiratory-resolved 4D-MRI with separable spatio-temporal neural networks. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0305.html)]
 - NLINV-Net: Self-Supervised End-2-End Learning for Reconstructing Undersampled Radial Cardiac Real-Time Data. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0499.html)]
 - Phase-based 3D diffusion mapping using RF phase-modulated gradient echo imaging. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0510.html)]
-- Respiration artifact-fre 3D DESS T2 mapping of the human brain. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0760.html)]
+- Respiration artifact-free 3D DESS T2 mapping of the human brain. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0760.html)]
 - Efficient Bloch Simulation Based on Precomputed State-Transition Matrices. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0748.html)]
 - Rigorous Uncertainty Estimation for MRI Reconstruction. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0749.html)]
