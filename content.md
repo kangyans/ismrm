@@ -1,2 +1,2 @@
 # Off Resonance Correction
-ResoNet: Physiscs Informed Deep Learning based Off-Resonance Correction Trained on Synthetic Data.
+ResoNet: Physiscs Informed Deep Learning based Off-Resonance Correction Trained on Synthetic Data.[https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0555.html]
