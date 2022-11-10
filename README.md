@@ -1,2 +1,2 @@
 # ismrm2022
-interesting ismrm abstracts
+Interesting abstract archives of 2022 ISMRM.
