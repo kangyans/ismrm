@@ -16,3 +16,5 @@
 - Respiration artifact-free 3D DESS T2 mapping of the human brain. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0760.html)]
 - Efficient Bloch Simulation Based on Precomputed State-Transition Matrices. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0748.html)]
 - Rigorous Uncertainty Estimation for MRI Reconstruction. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0749.html)]
+- Bipolar Partial Echo Imaging [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/1715.html)]
+- Tennisball: slew-efficient trajectory design for 3D-radial imaging. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/1712.html)]
