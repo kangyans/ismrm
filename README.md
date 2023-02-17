@@ -19,4 +19,4 @@
 - Bipolar Partial Echo Imaging [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/1715.html)]
 - Tennisball: slew-efficient trajectory design for 3D-radial imaging. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/1712.html)]
 
-###2023
+### 2023
