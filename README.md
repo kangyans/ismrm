@@ -20,5 +20,8 @@
 - Tennisball: slew-efficient trajectory design for 3D-radial imaging. [[paper](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/1712.html)]
 
 ### 2023
-- COLADA: Contrastive Learning for highly accelerated MR Image Reconstruction. [[paper](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0311.html)]
-- Muti-Coil Muti-Contrast Random Matrix Theory-Based Denoising for Liver Fat and R2* Quantification at 0.55T[[paper](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=0311)]
+- COLADA: Contrastive Learning for highly accelerated MR Image Reconstruction. [#1809]
+- Muti-Coil Muti-Contrast Random Matrix Theory-Based Denoising for Liver Fat and R2* Quantification at 0.55T. [#0311]
+- MR image super-resolution via a variational diffusion model. [#0163]
+- Multi-Contrast 3D Fast Spin-Echo T2 Shuffling Reconstruction with Score-Based Deep Generative Priors. [#0168]
+- Motion-Resolved Self-Gated Free Breathing 3D Liver PDFF and R2* Mapping using Phase-Preserving Beamforming and Non-Rigid Motion Compensation. [#0055]
