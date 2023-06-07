@@ -35,7 +35,7 @@
 - Quantitative 3D DESS T2 mapping with Deep Learning Reconstruction for Magnetic Resonance Neurography. [[#0665](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0665.html)]
 - Time-resolved cardiac imaging and motion analysis using a multi-scale dynamics decomposition. [[#0861](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0861.html)]
 - Robust Image Reconstruction using Multi-channel Spatial Nulling Maps: An ALternative to ESPIRiT? [[#0862](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0862.html)]
-- - Pose-dependent field reconstruction enabled by prospective motion navigation and randomized sampling. [[#0864](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0864.html)]
+- Pose-dependent field reconstruction enabled by prospective motion navigation and randomized sampling. [[#0864](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0864.html)]
 - Motion Compensated Structured Low-rank Reconstruction for Robust 3D Multi-shot EPI fMRI. [[#0865](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0865.html)]
 - Interactive Real-Time MRI with BART. [[#0873](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0873.html)]
 - Active dictionary learning: fast and adaptive parameter mapping for dynamic MRI. [[#0992](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0992.html)]
