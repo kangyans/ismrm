@@ -29,7 +29,7 @@
 - Ultra-Low Field Quantitative T2 Mapping. [[#0307](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0307.html)]
 - MUSE reconstruction of multishot DW-EPI is not limited by SNR at 0.5T. [[#0309](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0309.html)]
 - Multi-Coil Muti-Contrast Random Matrix Theory-Based Denoising for Liver Fat and R2* Qualification at 0.55T [[#0311](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0311.html)]
-- Multiphoton SImultaneous Multislice Imaging with CAIPIRINHA Phase Encoding. [#0530]
+- Multiphoton SImultaneous Multislice Imaging with CAIPIRINHA Phase Encoding. [[#0530](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0530.html)]
 - SNR-efficient, motion-robust multi-echo SPGR with k-space aliasing. [[#0531](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0531.html)]
 - Variable-flip-angle 3D spiral-in-out TSE/SPACE using echo-reordering and concomitant gradient compensation at 0.55T. [[#0536](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0536.html)]
 - Quantitative 3D DESS T2 mapping with Deep Learning Reconstruction for Magnetic Resonance Neurography. [[#0665](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0665.html)]
