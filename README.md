@@ -33,7 +33,7 @@
 - SNR-efficient, motion-robust multi-echo SPGR with k-space aliasing. [#0531]
 - Variable-flip-angle 3D spiral-in-out TSE/SPACE using echo-reordering and concomitant gradient compensation at 0.55T. [0536]
 - Quantitative 3D DESS T2 mapping with Deep Learning Reconstruction for Magnetic Resonance Neurography. [0665]
-- Time-resolved cardiac imaging and motion analysis using a multi-scale dynamics decomposition. [#0861]
+- Time-resolved cardiac imaging and motion analysis using a multi-scale dynamics decomposition. [[paper](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0861.html)]
 - Robust Image Reconstruction using Multi-channel Spatial Nulling Maps: An ALternative to ESPIRiT? [0862]
 - Motion Compensated Structured Low-rank Reconstruction for Robust 3D Multi-shot EPI fMRI. [#0865]
 - Interactive Real-Time MRI with BART. [#0873]
