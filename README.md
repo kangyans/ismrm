@@ -40,4 +40,4 @@
 - Interactive Real-Time MRI with BART. [[#0873](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0873.html)]
 - Active dictionary learning: fast and adaptive parameter mapping for dynamic MRI. [[#0992](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0992.html)]
 - Rapid 3D lung imaging with bSSFP stack of spiral out-in sampling at 0.55T. [[#1409](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/1409.html)]
-- ALternating Low-Rank Tensor Reconstruction for Improved Multi-Dimensional MRI with MR Multitasking. [[#0866](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0866.html)]
+- Alternating Low-Rank Tensor Reconstruction for Improved Multi-Dimensional MRI with MR Multitasking. [[#0866](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0866.html)]
