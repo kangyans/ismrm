@@ -38,6 +38,6 @@
 - Pose-dependent field reconstruction enabled by prospective motion navigation and randomized sampling. [[#0864](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0864.html)]
 - Motion Compensated Structured Low-rank Reconstruction for Robust 3D Multi-shot EPI fMRI. [[#0865](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0865.html)]
 - Interactive Real-Time MRI with BART. [[#0873](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0873.html)]
-- Active dictionary learning: fast and adaptive parameter mapping for dynamic MRI. [[#0992](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0992.html)]
+- Active dictionary learning: fast and adaptive parameter mapping for dynamic MRI. [[#0992](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0992.html)][[link](https://submissions.mirasmart.com/ISMRM2023/Itinerary/PresentationDetail.aspx?evdid=2492)]
 - Rapid 3D lung imaging with bSSFP stack of spiral out-in sampling at 0.55T. [[#1409](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/1409.html)]
 - Alternating Low-Rank Tensor Reconstruction for Improved Multi-Dimensional MRI with MR Multitasking. [[#0866](https://submissions.mirasmart.com/ISMRM2023/Itinerary/Files/PDFFiles/0866.html)]
