@@ -47,3 +47,4 @@
 - A Novel Accelerated 3D Phase-Unwrapping Method Based on Subbivided Arrays and Polynomial Modelling with Application: Dixon Water-Fat Separation.[[#0074](https://cds.ismrm.org/protected/23MPresentations/abstracts/0074.html)]
 - A Dynamic 2D TSE Acquisition Strategy for Robust SAMER Motion Mitigation. [[#1832](https://cds.ismrm.org/protected/23MPresentations/abstracts/1832.html)]
 - Improved Low-Rank and Subspace Reconstruction for Magnetic Resonance Fingerprinting with Self-Navigating Acquisitions.[[#0427](https://cds.ismrm.org/protected/23MPresentations/abstracts/0427.html)]
+- Optimization of Magnetic Resonance Fingerprinting with Subspace Reconstruction. [[#0428](https://cds.ismrm.org/protected/23MPresentations/abstracts/0428.html)]
