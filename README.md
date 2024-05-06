@@ -48,3 +48,6 @@
 - A Dynamic 2D TSE Acquisition Strategy for Robust SAMER Motion Mitigation. [[#1832](https://cds.ismrm.org/protected/23MPresentations/abstracts/1832.html)]
 - Improved Low-Rank and Subspace Reconstruction for Magnetic Resonance Fingerprinting with Self-Navigating Acquisitions.[[#0427](https://cds.ismrm.org/protected/23MPresentations/abstracts/0427.html)]
 - Optimization of Magnetic Resonance Fingerprinting with Subspace Reconstruction. [[#0428](https://cds.ismrm.org/protected/23MPresentations/abstracts/0428.html)]
+
+### 2024
+- Cardiac Cine MRI with Dimension-Reduced Deep Separable Spatiotemporal Learning.[[#0009](https://cds.ismrm.org/protected/24MPresentations/abstracts/0009.html)]
