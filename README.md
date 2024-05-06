@@ -1,6 +1,6 @@
 ## Abstracts
 
-### You can also search 2023 abstracts [here](https://ismrm2023-unofficial.netlify.app/)! 
+### Fast Research: [2023](https://ismrm2023-unofficial.netlify.app/) | [2024](https://meetingsearch.ismrm.org/)
 
 ### 2022
 - ResoNet: Physics Informed Deep Learning based Off-Resonance Correction Trained on Synthetic Data. [[#0555](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0555.html)]
