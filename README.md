@@ -51,3 +51,7 @@
 
 ### 2024
 - Cardiac Cine MRI with Dimension-Reduced Deep Separable Spatiotemporal Learning.[[#0009](https://cds.ismrm.org/protected/24MPresentations/abstracts/0009.html)]
+- Rapid Motion Estimation and Motion-Corrected End-to-End Deep Learning Reconstruction for 1 Heartbeat CINE [[#0010](https://cds.ismrm.org/protected/24MPresentations/abstracts/0010.html)]
+- A self-supervised feature learning strategy for training reconstruction networks on undersampled data in cardiac cine MRI [[#0012](https://cds.ismrm.org/protected/24MPresentations/abstracts/0012.html)]
+- Graph Image Prior for Unsupervised Dynamic MRI Reconstruction [[#0015](https://cds.ismrm.org/protected/24MPresentations/abstracts/0015.html)]
+- Low-Latency Reconstruction of Real-Time Cine MRI Using an Unrolled Network [[#0017](https://cds.ismrm.org/protected/24MPresentations/abstracts/0017.html)]
