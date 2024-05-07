@@ -56,3 +56,4 @@
 - Graph Image Prior for Unsupervised Dynamic MRI Reconstruction [[#0015](https://cds.ismrm.org/protected/24MPresentations/abstracts/0015.html)]
 - Low-Latency Reconstruction of Real-Time Cine MRI Using an Unrolled Network [[#0017](https://cds.ismrm.org/protected/24MPresentations/abstracts/0017.html)]
 - Multi-scale plug-and-play energy framework for inverse problems [[#0038](https://cds.ismrm.org/protected/24MPresentations/abstracts/0038.html)]
+- AI-based motion estimation in k-space using guidance lines enables scoutless prospective motion correction. [[#0386](https://cds.ismrm.org/protected/24MPresentations/abstracts/0386.html)]
