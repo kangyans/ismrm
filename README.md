@@ -57,3 +57,8 @@
 - Low-Latency Reconstruction of Real-Time Cine MRI Using an Unrolled Network [[#0017](https://cds.ismrm.org/protected/24MPresentations/abstracts/0017.html)]
 - Multi-scale plug-and-play energy framework for inverse problems [[#0038](https://cds.ismrm.org/protected/24MPresentations/abstracts/0038.html)]
 - AI-based motion estimation in k-space using guidance lines enables scoutless prospective motion correction. [[#0386](https://cds.ismrm.org/protected/24MPresentations/abstracts/0386.html)]
+- Navigator-based prospective motion correction in short TR sequences with minimal scan time penalty. [[#0388](https://cds.ismrm.org/protected/24MPresentations/abstracts/0388.html)]
+- Integrating scout and guidance line-based retrospective motion correction into a 3D deep learning reconstruction for fast and robust brain MRI. [[#0389](https://cds.ismrm.org/protected/24MPresentations/abstracts/0389.html)]
+- PHIMO: Physics-Informed Motion Correction of GRE MRI for $T_2^*$ Quantification. [[#0391](https://cds.ismrm.org/protected/24MPresentations/abstracts/0391.html)]
+- High temporal resolution motion correction in MRF using quantitative-scout-based navigation (QUEEN) and motion-dictionary matching. [[#0392](https://cds.ismrm.org/protected/24MPresentations/abstracts/0392.html)]
+- Motion-resolved rapid 3D multiparametric brain mapping with self-navigation. [[#0395](https://cds.ismrm.org/protected/24MPresentations/abstracts/0395.html)]
