@@ -3,7 +3,7 @@
 ### Fast Research: [[2023](https://ismrm2023-unofficial.netlify.app/)] [[2024](https://meetingsearch.ismrm.org/)]
 
 ### 2022
-- ResoNet: Physics Informed Deep Learning based Off-Resonance Correction Trained on Synthetic Data. [[#0555](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0555.html)]
+- ResoNet: Physics Informed Deep Learning based Off-Resonance Correction Trained on Synthetic Data. [[#0555](https://cds.ismrm.org/protected/22MPresentations/abstracts/0555.html)]
 - Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks.  [[#0050](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/0050.html)]
 - Bayesian sensitivity encoding enables parameter-free, highly accelerated joint multi-contrast reconstruction. [[#3444](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/3444.html)]
 - Integrating Subspace Learning, Manifold Learning, and Sparsity Learning to Recosntruct Image Sequences.[[#3448](https://submissions.mirasmart.com/ISMRM2022/Itinerary/Files/PDFFiles/3448.html)]
