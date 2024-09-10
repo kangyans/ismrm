@@ -44,7 +44,7 @@
 - Rapid 3D lung imaging with bSSFP stack of spiral out-in sampling at 0.55 $T$. [[#1409](https://cds.ismrm.org/protected/23MPresentations/abstracts/1409.html)]
 - Alternating Low-Rank Tensor Reconstruction for Improved Multi-Dimensional MRI with MR Multitasking. [[#0866](https://cds.ismrm.org/protected/23MPresentations/abstracts/0866.html)]
 - A motion-Robust Slice-to-Volume Reconstruction Framework for Fetal Brain MRI.[[#0082](https://cds.ismrm.org/protected/23MPresentations/abstracts/0082.html)]
-- A Novel Accelerated 3D Phase-Unwrapping Method Based on Subbivided Arrays and Polynomial Modelling with Application: Dixon Water-Fat Separation.[[#0074](https://cds.ismrm.org/protected/23MPresentations/abstracts/0074.html)]
+- A Novel Accelerated 3D Phase-Unwrapping Method Based on Subdivided Arrays and Polynomial Modelling with Application: Dixon Water-Fat Separation.[[#0074](https://cds.ismrm.org/protected/23MPresentations/abstracts/0074.html)]
 - A Dynamic 2D TSE Acquisition Strategy for Robust SAMER Motion Mitigation. [[#1832](https://cds.ismrm.org/protected/23MPresentations/abstracts/1832.html)]
 - Improved Low-Rank and Subspace Reconstruction for Magnetic Resonance Fingerprinting with Self-Navigating Acquisitions.[[#0427](https://cds.ismrm.org/protected/23MPresentations/abstracts/0427.html)]
 - Optimization of Magnetic Resonance Fingerprinting with Subspace Reconstruction. [[#0428](https://cds.ismrm.org/protected/23MPresentations/abstracts/0428.html)]
