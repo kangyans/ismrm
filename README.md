@@ -35,7 +35,7 @@
 - SNR-efficient, motion-robust multi-echo SPGR with k-space aliasing. [[#0531](https://cds.ismrm.org/protected/23MPresentations/abstracts/0531.html)]
 - Variable-flip-angle 3D spiral-in-out TSE/SPACE using echo-reordering and concomitant gradient compensation at 0.55 $T$. [[#0536](https://cds.ismrm.org/protected/23MPresentations/abstracts/0536.html)]
 - Quantitative 3D DESS $T_2$ mapping with Deep Learning Reconstruction for Magnetic Resonance Neurography. [[#0665](https://cds.ismrm.org/protected/23MPresentations/abstracts/0665.html)]
-- Time-resolved cardiac imaging and motion analysis using a multi-scale dynamics decomposition. [[#0861](https://cds.ismrm.org/protected/23MPresentations/abstracts/0861.html)] https://img.shields.io/badge/just%20the%20message-8A2BE2
+- Time-resolved cardiac imaging and motion analysis using a multi-scale dynamics decomposition. [[#0861](https://cds.ismrm.org/protected/23MPresentations/abstracts/0861.html)] [Static Badge](https://img.shields.io/badge/:highlight)
 - Robust Image Reconstruction using Multi-channel Spatial Nulling Maps: An Alternative to ESPIRiT? [[#0862](https://cds.ismrm.org/protected/23MPresentations/abstracts/0862.html)]
 - Pose-dependent field reconstruction enabled by prospective motion navigation and randomized sampling. [[#0864](https://cds.ismrm.org/protected/23MPresentations/abstracts/0864.html)]
 - Motion Compensated Structured Low-rank Reconstruction for Robust 3D Multi-shot EPI fMRI. [[#0865](https://cds.ismrm.org/protected/23MPresentations/abstracts/0865.html)]
