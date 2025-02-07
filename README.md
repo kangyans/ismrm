@@ -63,4 +63,4 @@
 - High temporal resolution motion correction in MRF using quantitative-scout-based navigation (QUEEN) and motion-dictionary matching. [[#0392](https://cds.ismrm.org/protected/24MPresentations/abstracts/0392.html)]
 - Motion-resolved rapid 3D multiparametric brain mapping with self-navigation. [[#0395](https://cds.ismrm.org/protected/24MPresentations/abstracts/0395.html)]
 - Deep Learning Reconstruction for Free-Breathing Radial Cine Imaging [[#0043](https://cds.ismrm.org/protected/24MPresentations/abstracts/0043.html)] ![ROVir](https://img.shields.io/badge/recon-ROVir-blue)
-- Spiral HASTE using variable-flip-angle single-shot spiral-ring TSE for rapid T2-weighted abdominal imaging. [[#9044](https://cds.ismrm.org/protected/24MPresentations/abstracts/9044.html)]![TSE](https://img.shields.io/badge/spiral-TSE-blue)
+- Spiral HASTE using variable-flip-angle single-shot spiral-ring TSE for rapid T2-weighted abdominal imaging. [[#0944](https://cds.ismrm.org/protected/24MPresentations/abstracts/0944.html)]![TSE](https://img.shields.io/badge/spiral-TSE-blue)
