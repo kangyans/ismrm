@@ -64,3 +64,11 @@
 - Motion-resolved rapid 3D multiparametric brain mapping with self-navigation. [[#0395](https://cds.ismrm.org/protected/24MPresentations/abstracts/0395.html)]
 - Deep Learning Reconstruction for Free-Breathing Radial Cine Imaging [[#0043](https://cds.ismrm.org/protected/24MPresentations/abstracts/0043.html)] ![ROVir](https://img.shields.io/badge/recon-ROVir-blue)
 - Spiral HASTE using variable-flip-angle single-shot spiral-ring TSE for rapid T2-weighted abdominal imaging. [[#0944](https://cds.ismrm.org/protected/24MPresentations/abstracts/0944.html)]![TSE](https://img.shields.io/badge/spiral-TSE-blue)
+
+### 2025
+- Fast high Spatiotemporal-Resolution Spiral bSSFP Cardiac Cine with Disentanglement-based Reconstruction and Segmentation. [[1765](https://cds.ismrm.org/protected/25MPresentations/abstracts/1765.html))]
+- Removing Artifact of 3D Spiral In-Out with Accelerated Iterative Reconstruction using k-spasce Preconditioning. [[5211](https://cds.ismrm.org/protected/25MPresentations/abstracts/5211.html)]
+- Head Motion Sensing and Estimation in 3D Radial MRI using Region-Optimized Virtual Coil. [[0643](https://cds.ismrm.org/protected/25MPresentations/abstracts/0643.html)]
+- Towards Fast and Motion-Robust Foot and Knee MRI: Application of SAMER Retrospective Motion Correction with Deep Learning for 2D TSE and 3D SPACE. [[0642](https://cds.ismrm.org/protected/25MPresentations/abstracts/0642.html)]
+- Online spatiotemporally constraiend reconstruction for real-time interactive MRI. [[0030](https://cds.ismrm.org/protected/25MPresentations/abstracts/0030.html)]
+- Unified Motion Correction Model for Multi-model MRI. [[0745](https://cds.ismrm.org/protected/25MPresentations/abstracts/0745.html)]
