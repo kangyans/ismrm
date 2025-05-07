@@ -72,3 +72,6 @@
 - Towards Fast and Motion-Robust Foot and Knee MRI: Application of SAMER Retrospective Motion Correction with Deep Learning for 2D TSE and 3D SPACE. [[0642](https://cds.ismrm.org/protected/25MPresentations/abstracts/0642.html)]
 - Online spatiotemporally constraiend reconstruction for real-time interactive MRI. [[0030](https://cds.ismrm.org/protected/25MPresentations/abstracts/0030.html)]
 - Unified Motion Correction Model for Multi-model MRI. [[0745](https://cds.ismrm.org/protected/25MPresentations/abstracts/0745.html)]
+- Fast and accurate motion-corrected reconstruction with motion-correcting Implicit GROG (motion-iGROG). [[4434](https://cds.ismrm.org/protected/25MPresentations/abstracts/4434.html)]
+- K-CC-MoCo: A fast respiratory motion correction in coil-compressed K-space for highly accelerated first-pass perfusion cardiac MRI. [[0029](https://cds.ismrm.org/protected/25MPresentations/abstracts/0029.html)]
+- Motion-Guided Deep Image Prior for Dynamic Cardiac MRI. [[0120](https://cds.ismrm.org/protected/25MPresentations/abstracts/0120.html)]
