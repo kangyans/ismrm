@@ -66,7 +66,7 @@
 - Spiral HASTE using variable-flip-angle single-shot spiral-ring TSE for rapid T2-weighted abdominal imaging. [[#0944](https://cds.ismrm.org/protected/24MPresentations/abstracts/0944.html)]![TSE](https://img.shields.io/badge/spiral-TSE-blue)
 
 ### 2025
-- Fast high Spatiotemporal-Resolution Spiral bSSFP Cardiac Cine with Disentanglement-based Reconstruction and Segmentation. [[1765](https://cds.ismrm.org/protected/25MPresentations/abstracts/1765.html))]
+- Fast high Spatiotemporal-Resolution Spiral bSSFP Cardiac Cine with Disentanglement-based Reconstruction and Segmentation. [[1765](https://cds.ismrm.org/protected/25MPresentations/abstracts/1765.html)]
 - Removing Artifact of 3D Spiral In-Out with Accelerated Iterative Reconstruction using k-spasce Preconditioning. [[5211](https://cds.ismrm.org/protected/25MPresentations/abstracts/5211.html)]
 - Head Motion Sensing and Estimation in 3D Radial MRI using Region-Optimized Virtual Coil. [[0643](https://cds.ismrm.org/protected/25MPresentations/abstracts/0643.html)]
 - Towards Fast and Motion-Robust Foot and Knee MRI: Application of SAMER Retrospective Motion Correction with Deep Learning for 2D TSE and 3D SPACE. [[0642](https://cds.ismrm.org/protected/25MPresentations/abstracts/0642.html)]
