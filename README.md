@@ -75,3 +75,4 @@
 - Fast and accurate motion-corrected reconstruction with motion-correcting Implicit GROG (motion-iGROG). [[4434](https://cds.ismrm.org/protected/25MPresentations/abstracts/4434.html)]
 - K-CC-MoCo: A fast respiratory motion correction in coil-compressed K-space for highly accelerated first-pass perfusion cardiac MRI. [[0029](https://cds.ismrm.org/protected/25MPresentations/abstracts/0029.html)]
 - Motion-Guided Deep Image Prior for Dynamic Cardiac MRI. [[0120](https://cds.ismrm.org/protected/25MPresentations/abstracts/0120.html)]
+- MRI Reconstruction with Learnable High Order Fast Fourier Transform (HOFFT) Kernels. [[0383](https://cds.ismrm.org/protected/25MPresentations/abstracts/0383.html)]
