@@ -77,4 +77,3 @@
 - Motion-Guided Deep Image Prior for Dynamic Cardiac MRI. [[0120](https://cds.ismrm.org/protected/25MPresentations/abstracts/0120.html)]
 - MRI Reconstruction with Learnable High Order Fast Fourier Transform (HOFFT) Kernels. [[0383](https://cds.ismrm.org/protected/25MPresentations/abstracts/0383.html)]
 - A Comparison between Low Rank Reduced FOV and Region Optimized Virtual Coils Reconstructions. [[4451](https://cds.ismrm.org/protected/25MPresentations/abstracts/4451.html)]
-- MRI Reconstruction with Learnable High Order Fast Fourier Transform (HOFFT) Kernels. [[0383](https://cds.ismrm.org/protected/25MPresentations/abstracts/0383.html)]
