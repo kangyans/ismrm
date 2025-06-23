@@ -2,9 +2,10 @@
 
 ### Fast Research: [[2023](https://ismrm2023-unofficial.netlify.app/)] [[2024](https://meetingsearch.ismrm.org/2024/)] [[2025](https://meetingsearch.ismrm.org/2025)]
 
-<div style="border: 1px solid #f5c2c7; background-color: #f8d7da; padding: 10px; border-radius: 5px;">
-  <strong>Notice: </strong> The fast abstract search tools doesn't support case-insensitive queries or searching by abstract number. The link to the 2025 ISMRM abstracts is currently unavailable. I'm waiting for the abstracts to be archived and accessible
-</div>
+> ⚠️ **Notice:**
+> - The fast abstract search tools doesn't support case-insensitive queries or searching by abstract number. 
+> - The link to the 2025 ISMRM abstracts is currently unavailable. I'm waiting for the abstracts to be archived and accessible
+
 
 ### 2022
 - ResoNet: Physics Informed Deep Learning based Off-Resonance Correction Trained on Synthetic Data. [[#0555](https://cds.ismrm.org/protected/22MPresentations/abstracts/0555.html)]
