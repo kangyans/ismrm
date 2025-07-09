@@ -2,7 +2,6 @@
 
 > ⚠️ **Notice:**
 > - The fast abstract search tools doesn't support case-insensitive queries or searching by abstract number. 
-> - The link to the 2025 ISMRM abstracts is currently unavailable. I'm waiting for the abstracts to be archived and accessible
 
 
 ### Fast Research: [[2023](https://ismrm2023-unofficial.netlify.app/)] [[2024](https://meetingsearch.ismrm.org/2024/)] [[2025](https://meetingsearch.ismrm.org/2025)]
