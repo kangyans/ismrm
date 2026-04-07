@@ -40,7 +40,7 @@
 - SNR-efficient, motion-robust multi-echo SPGR with k-space aliasing. [[#0531](https://cds.ismrm.org/protected/23MPresentations/abstracts/0531.html)]
 - Variable-flip-angle 3D spiral-in-out TSE/SPACE using echo-reordering and concomitant gradient compensation at 0.55 $T$. [[#0536](https://cds.ismrm.org/protected/23MPresentations/abstracts/0536.html)]
 - Quantitative 3D DESS $T_2$ mapping with Deep Learning Reconstruction for Magnetic Resonance Neurography. [[#0665](https://cds.ismrm.org/protected/23MPresentations/abstracts/0665.html)]
-- Time-resolved cardiac imaging and motion analysis using a multi-scale dynamics decomposition. [[#0861](https://cds.ismrm.org/protected/23MPresentations/abstracts/0861.html)] ![moco](https://img.shields.io/badge/recon-moco-blue)
+- Time-resolved cardiac imaging and motion analysis using a multi-scale dynamics decomposition. [[#0861](https://cds.ismrm.org/protected/23MPresentations/abstracts/0861.html)] ![moco](https://img.shields.io/badge/Recon-moco-blue)
 - Robust Image Reconstruction using Multi-channel Spatial Nulling Maps: An Alternative to ESPIRiT? [[#0862](https://cds.ismrm.org/protected/23MPresentations/abstracts/0862.html)]
 - Pose-dependent field reconstruction enabled by prospective motion navigation and randomized sampling. [[#0864](https://cds.ismrm.org/protected/23MPresentations/abstracts/0864.html)]
 - Motion Compensated Structured Low-rank Reconstruction for Robust 3D Multi-shot EPI fMRI. [[#0865](https://cds.ismrm.org/protected/23MPresentations/abstracts/0865.html)]
@@ -67,8 +67,8 @@
 - PHIMO: Physics-Informed Motion Correction of GRE MRI for $T_2^*$ Quantification. [[#0391](https://cds.ismrm.org/protected/24MPresentations/abstracts/0391.html)]
 - High temporal resolution motion correction in MRF using quantitative-scout-based navigation (QUEEN) and motion-dictionary matching. [[#0392](https://cds.ismrm.org/protected/24MPresentations/abstracts/0392.html)]
 - Motion-resolved rapid 3D multiparametric brain mapping with self-navigation. [[#0395](https://cds.ismrm.org/protected/24MPresentations/abstracts/0395.html)]
-- Deep Learning Reconstruction for Free-Breathing Radial Cine Imaging [[#0043](https://cds.ismrm.org/protected/24MPresentations/abstracts/0043.html)] ![ROVir](https://img.shields.io/badge/recon-ROVir-blue)
-- Spiral HASTE using variable-flip-angle single-shot spiral-ring TSE for rapid T2-weighted abdominal imaging. [[#0944](https://cds.ismrm.org/protected/24MPresentations/abstracts/0944.html)]![TSE](https://img.shields.io/badge/spiral-TSE-blue)
+- Deep Learning Reconstruction for Free-Breathing Radial Cine Imaging [[#0043](https://cds.ismrm.org/protected/24MPresentations/abstracts/0043.html)] ![ROVir](https://img.shields.io/badge/Recon-ROVir-blue)
+- Spiral HASTE using variable-flip-angle single-shot spiral-ring TSE for rapid T2-weighted abdominal imaging. [[#0944](https://cds.ismrm.org/protected/24MPresentations/abstracts/0944.html)]![TSE](https://img.shields.io/badge/Spiral-TSE-blue)
 
 ### 2025
 - Fast high Spatiotemporal-Resolution Spiral bSSFP Cardiac Cine with Disentanglement-based Reconstruction and Segmentation. [[#1765](https://cds.ismrm.org/protected/25MPresentations/abstracts/1765.html)]
